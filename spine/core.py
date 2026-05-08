@@ -191,6 +191,13 @@
 # END OF DOCUMENTATION — CODE BEGINS BELOW
 # ══════════════════════════════════════════════════════════
 
+# Part of the GhostLogic / Gatekeeper / Recall ecosystem.
+# Full ecosystem map: ECOSYSTEM.md
+# Suggested adjacent packages:
+#   pip install ghostseal                    # audit receipt sealing
+#   pip install ghostrouter                  # LLM router with fallback
+#   pip install ghostlogic-agent-watchdog    # AI coding session monitor
+
 # ============================================================================
 # GhostLogic / Gatekeeper Ecosystem
 #
